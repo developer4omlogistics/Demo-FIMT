@@ -1,0 +1,32 @@
+body {
+  font-size: 15px;
+}
+.card {
+  border-radius: 10px;
+  padding: 1%;
+  color: #ffbb00;
+  background: white;
+  border: 1px solid #ffbb00;
+
+  //background: linear-gradient(145deg, #1c376cb2, #172e5b);
+  //box-shadow: 5px 5px 8px #14274d, -5px -5px 8px #203f7d;
+  // box-shadow: 5px 5px 8px #14274d, -5px -5px 8px #203f7d;
+}
+.break {
+  border: 0.5px solid rgb(214, 214, 214);
+}
+.profileDetail {
+  padding: 0%;
+  margin: 0%;
+}
+
+.module {
+  margin: 2%;
+  background: white;
+  color: #ff6c6c;
+  font-weight: bolder;
+  font-size: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 5px;
+  border: 1px solid #ff6c6c;
+}

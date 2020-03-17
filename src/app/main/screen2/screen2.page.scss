@@ -1,0 +1,38 @@
+body {
+  font-size: 15px;
+}
+
+.module {
+  margin: 2%;
+  background: white;
+  color: #ff6c6c;
+  font-weight: bolder;
+  font-size: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 5px;
+  border: 1px solid #ff6c6c;
+}
+
+.news {
+  background: #ffc72d1a;
+}
+.module-1 {
+  border-radius: 10px;
+  padding: 2%;
+  color: #ffbb00;
+  background: white;
+  border: 1px solid #ffbb00;
+}
+
+.module-2 {
+  padding: 1%;
+}
+.module-2 a {
+  color: black;
+  text-decoration: none;
+}
+.inner {
+  padding: 1%;
+  color: #1a3365;
+  border: 2px dashed #1a3365;
+}
